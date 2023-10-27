@@ -46,22 +46,7 @@ namespace DAL
 
         public bool DeleteUser(int id)
         {
-
-            string msgError = "";
-            try
-            {
-                var result = _dbHelper.ExecuteScalarSProcedureWithTransaction(out msgError, "sp_delete_user","@UserID",id);
-                if ((result != null && !string.IsNullOrEmpty(result.ToString())) || !string.IsNullOrEmpty(msgError))
-                {
-                    throw new Exception(Convert.ToString(result) + msgError);
-                }
-                return true;
-            }
-            catch (Exception ex)
-            {
-                throw ex;
-            }
-           
+            throw new NotImplementedException();
         }
 
         public bool GetListUser(UserModel model)
@@ -76,6 +61,25 @@ namespace DAL
                     throw new Exception(Convert.ToString(result) + msgError);
                 }
                 return true;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
+        public List<UserModel> GetListUser()
+        {
+            
+            string msgError = "";
+            try
+            {
+                var result = _dbHelper.ExecuteSProcedureReturnDataTable(out msgError, "sp_get_all_users");
+                if ((result != null && !string.IsNullOrEmpty(result.ToString())) || !string.IsNullOrEmpty(msgError))
+                {
+                    throw new Exception(Convert.ToString(result) + msgError);
+                }
+                return result.ConvertTo<UserModel>().ToList();
             }
             catch (Exception ex)
             {
@@ -98,6 +102,24 @@ namespace DAL
                     throw new Exception(msgError);
                 if (dt.Rows.Count > 0) total = (long)dt.Rows[0]["RecordCount"];
                 return dt.ConvertTo<UserModel>().ToList();
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
+        public List<ThongKeNguoiDungTopModel> ThongKeTop(DateTime? fr_date, DateTime? to_date)
+        {
+            string msgError = "";
+            try
+            {
+                var dt = _dbHelper.ExecuteSProcedureReturnDataTable(out msgError, "THONGKETOPNGUOIDUNG",
+                    "@fm_Date", fr_date,
+                    "@to_Date", to_date);
+                if (!string.IsNullOrEmpty(msgError))
+                    throw new Exception(msgError);
+                return dt.ConvertTo<ThongKeNguoiDungTopModel>().ToList();
             }
             catch (Exception ex)
             {

@@ -15,3 +15,20 @@ D:\ASP.Net WEB API\Bài tập lớn\Quan Tri API\BLL\obj\Debug\net6.0\BLL.dll
 D:\ASP.Net WEB API\Bài tập lớn\Quan Tri API\BLL\obj\Debug\net6.0\refint\BLL.dll
 D:\ASP.Net WEB API\Bài tập lớn\Quan Tri API\BLL\obj\Debug\net6.0\BLL.pdb
 D:\ASP.Net WEB API\Bài tập lớn\Quan Tri API\BLL\obj\Debug\net6.0\ref\BLL.dll
+D:\ASP.Net WEB API\File Tong\Bài tập lớn\Quan Tri API\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\ASP.Net WEB API\File Tong\Bài tập lớn\Quan Tri API\BLL\bin\Debug\net6.0\BLL.dll
+D:\ASP.Net WEB API\File Tong\Bài tập lớn\Quan Tri API\BLL\bin\Debug\net6.0\BLL.pdb
+D:\ASP.Net WEB API\File Tong\Bài tập lớn\Quan Tri API\BLL\bin\Debug\net6.0\DAL.dll
+D:\ASP.Net WEB API\File Tong\Bài tập lớn\Quan Tri API\BLL\bin\Debug\net6.0\DataModel.dll
+D:\ASP.Net WEB API\File Tong\Bài tập lớn\Quan Tri API\BLL\bin\Debug\net6.0\DAL.pdb
+D:\ASP.Net WEB API\File Tong\Bài tập lớn\Quan Tri API\BLL\bin\Debug\net6.0\DataModel.pdb
+D:\ASP.Net WEB API\File Tong\Bài tập lớn\Quan Tri API\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\ASP.Net WEB API\File Tong\Bài tập lớn\Quan Tri API\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net WEB API\File Tong\Bài tập lớn\Quan Tri API\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\ASP.Net WEB API\File Tong\Bài tập lớn\Quan Tri API\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\ASP.Net WEB API\File Tong\Bài tập lớn\Quan Tri API\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\ASP.Net WEB API\File Tong\Bài tập lớn\Quan Tri API\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\ASP.Net WEB API\File Tong\Bài tập lớn\Quan Tri API\BLL\obj\Debug\net6.0\BLL.dll
+D:\ASP.Net WEB API\File Tong\Bài tập lớn\Quan Tri API\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\ASP.Net WEB API\File Tong\Bài tập lớn\Quan Tri API\BLL\obj\Debug\net6.0\BLL.pdb
+D:\ASP.Net WEB API\File Tong\Bài tập lớn\Quan Tri API\BLL\obj\Debug\net6.0\ref\BLL.dll

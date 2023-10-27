@@ -1053,11 +1053,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASP.Net WEB API\\Bài tập lớn\\Quan Tri API\\API Admin\\API Admin.csproj",
+      "projectUniqueName": "D:\\ASP.Net WEB API\\File Tong\\Bài tập lớn\\Quan Tri API\\API Admin\\API Admin.csproj",
       "projectName": "API Admin",
-      "projectPath": "D:\\ASP.Net WEB API\\Bài tập lớn\\Quan Tri API\\API Admin\\API Admin.csproj",
+      "projectPath": "D:\\ASP.Net WEB API\\File Tong\\Bài tập lớn\\Quan Tri API\\API Admin\\API Admin.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\ASP.Net WEB API\\Bài tập lớn\\Quan Tri API\\API Admin\\obj\\",
+      "outputPath": "D:\\ASP.Net WEB API\\File Tong\\Bài tập lớn\\Quan Tri API\\API Admin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1074,11 +1074,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\ASP.Net WEB API\\Bài tập lớn\\Quan Tri API\\BLL\\BLL.csproj": {
-              "projectPath": "D:\\ASP.Net WEB API\\Bài tập lớn\\Quan Tri API\\BLL\\BLL.csproj"
+            "D:\\ASP.Net WEB API\\File Tong\\Bài tập lớn\\Quan Tri API\\BLL\\BLL.csproj": {
+              "projectPath": "D:\\ASP.Net WEB API\\File Tong\\Bài tập lớn\\Quan Tri API\\BLL\\BLL.csproj"
             },
-            "D:\\ASP.Net WEB API\\Bài tập lớn\\Quan Tri API\\Data Model\\DataModel.csproj": {
-              "projectPath": "D:\\ASP.Net WEB API\\Bài tập lớn\\Quan Tri API\\Data Model\\DataModel.csproj"
+            "D:\\ASP.Net WEB API\\File Tong\\Bài tập lớn\\Quan Tri API\\Data Model\\DataModel.csproj": {
+              "projectPath": "D:\\ASP.Net WEB API\\File Tong\\Bài tập lớn\\Quan Tri API\\Data Model\\DataModel.csproj"
             }
           }
         }

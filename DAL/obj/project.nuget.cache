@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CETAR5vdIU/fafb054QSYjfoV8oqa2sVcmmrjdfQQD5XMP50ombDO5LJJM/ONrUV4IZQn7+Dpztde3xvT/9zBA==",
+  "dgSpecHash": "11KHqVUlSWFABOuV5gE2YUPEzEDqFDAFw1Q9sblluhX22HTS5OAqAYpbwm4VsdqE6wN4JlqqYTBGP2/q+8XmUQ==",
   "success": true,
-  "projectFilePath": "D:\\ASP.Net WEB API\\Bài tập lớn\\Quan Tri API\\DAL\\DAL.csproj",
+  "projectFilePath": "D:\\ASP.Net WEB API\\File Tong\\Bài tập lớn\\Quan Tri API\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

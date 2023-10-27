@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ghMNDkY2EryjrHbpcTqm1NYhCiP9wxsU+cAazwkAPYuxT9cpWumaPQyaTi58NbgHt4QNfziI96WgEUcreCOwjg==",
+  "dgSpecHash": "lKLWu5/3CPj1+wbqT61bT2UE1no24sOohe98sl82yS6HgK93soETr8K/yVrDUZuMrusx/FAw9jsB0qgct60BHw==",
   "success": true,
-  "projectFilePath": "D:\\ASP.Net WEB API\\Bài tập lớn\\Quan Tri API\\Data Model\\DataModel.csproj",
+  "projectFilePath": "D:\\ASP.Net WEB API\\File Tong\\Bài tập lớn\\Quan Tri API\\Data Model\\DataModel.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

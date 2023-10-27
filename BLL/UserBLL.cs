@@ -33,15 +33,20 @@ namespace BLL
             return _res.DeleteUser(id);
         }
 
-        public bool GetListUser(UserModel model)
+        public List<UserModel> GetListUser()
         {
-            return _res.GetListUser(model);
+            return _res.GetListUser();
         }
 
         public List<UserModel> Search(int pageIndex, int pageSize, out long total, string ten, string email)
         {
 
             return _res.Search(pageIndex, pageSize, out total, ten, email);
+        }
+
+        public List<ThongKeNguoiDungTopModel> ThongKeTop(DateTime? fr_date, DateTime? to_date)
+        {
+            return _res.ThongKeTop(fr_date, to_date);
         }
 
         public bool UpdateUser(UserModel model)

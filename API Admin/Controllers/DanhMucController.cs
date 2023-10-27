@@ -24,7 +24,8 @@ namespace API_Admin.Controllers
             }
             else
             {
-                return Ok(model);
+                var result = _dmBll.Create(model);
+                return Ok(result);
             }
         }
         [Route("Update-DanhMuc")]

@@ -13,3 +13,18 @@ D:\ASP.Net WEB API\Bài tập lớn\Quan Tri API\DAL\obj\Debug\net6.0\DAL.dll
 D:\ASP.Net WEB API\Bài tập lớn\Quan Tri API\DAL\obj\Debug\net6.0\refint\DAL.dll
 D:\ASP.Net WEB API\Bài tập lớn\Quan Tri API\DAL\obj\Debug\net6.0\DAL.pdb
 D:\ASP.Net WEB API\Bài tập lớn\Quan Tri API\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\ASP.Net WEB API\File Tong\Bài tập lớn\Quan Tri API\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\ASP.Net WEB API\File Tong\Bài tập lớn\Quan Tri API\DAL\bin\Debug\net6.0\DAL.dll
+D:\ASP.Net WEB API\File Tong\Bài tập lớn\Quan Tri API\DAL\bin\Debug\net6.0\DAL.pdb
+D:\ASP.Net WEB API\File Tong\Bài tập lớn\Quan Tri API\DAL\bin\Debug\net6.0\DataModel.dll
+D:\ASP.Net WEB API\File Tong\Bài tập lớn\Quan Tri API\DAL\bin\Debug\net6.0\DataModel.pdb
+D:\ASP.Net WEB API\File Tong\Bài tập lớn\Quan Tri API\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\ASP.Net WEB API\File Tong\Bài tập lớn\Quan Tri API\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net WEB API\File Tong\Bài tập lớn\Quan Tri API\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\ASP.Net WEB API\File Tong\Bài tập lớn\Quan Tri API\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\ASP.Net WEB API\File Tong\Bài tập lớn\Quan Tri API\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\ASP.Net WEB API\File Tong\Bài tập lớn\Quan Tri API\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+D:\ASP.Net WEB API\File Tong\Bài tập lớn\Quan Tri API\DAL\obj\Debug\net6.0\DAL.dll
+D:\ASP.Net WEB API\File Tong\Bài tập lớn\Quan Tri API\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\ASP.Net WEB API\File Tong\Bài tập lớn\Quan Tri API\DAL\obj\Debug\net6.0\DAL.pdb
+D:\ASP.Net WEB API\File Tong\Bài tập lớn\Quan Tri API\DAL\obj\Debug\net6.0\ref\DAL.dll

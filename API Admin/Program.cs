@@ -19,6 +19,10 @@ builder.Services.AddTransient<IUserBLL, UserBLL>();
 builder.Services.AddTransient<INhaCungCapRespository, NhaCungCapRespository>();
 builder.Services.AddTransient<INhaCungCapBLL, NhaCungCapBLL>();
 
+builder.Services.AddTransient<ISanPhamResponsitory, SanPhamResponsitory>();
+builder.Services.AddTransient<ISanPhamBLL, SanPhamBLL>();
+
+
 builder.Services.AddTransient<IDanhMucResponsitory, DanhMucResponsitory>();
 builder.Services.AddTransient<IDanhMucBLL, DanhMucBLL>();
 // Add services to the container.

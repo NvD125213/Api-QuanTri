@@ -10,12 +10,14 @@ namespace DAL.Interface
 {
     public interface IUserRespository
     {
-        bool GetListUser (UserModel model);
+        List<UserModel> GetListUser ();
         bool CreateUser (UserModel model);
 
         bool DeleteUser(int id);
         public List<UserModel> Search(int pageIndex, int pageSize, out long total, string ten, string email);
         bool UpdateUser(UserModel model);
+
+        public List<ThongKeNguoiDungTopModel> ThongKeTop(DateTime? fr_date, DateTime? to_date);
 
     }
 }
